@@ -1,3 +1,5 @@
+
+
 ## Front-End Developer (React.js)
 #### Hello , I am Roshanak 👋,
  a front end programmer with the React library. A hardworking girl who loves coding 💻
@@ -27,8 +29,14 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## 🚀 Projects
+### Movies-Star 🎬
+A single-page movie search app built with React, Tailwind CSS, and custom hooks. Uses APIs to fetch movie data and local storage for saving user preferences.
+
+[View Project](https://github.com/roshana01/movies-star)
 
 ## Stats 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=roshana01&show_icons=true&theme=tokyonight)](https://github.com/roshana01)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshana01&langs_count=6&theme=tokyonight)](https://github.com/roshana01)
+
