@@ -44,6 +44,16 @@ A pharmacy store application built with React, Tailwind CSS, and custom hooks. M
 
 [View Project](https://github.com/roshana01/Pharmacy-store-project)
 
+### Quiz Web ❓
+A quiz application built with React. It allows users to take quizzes and track their scores in a fun and interactive way.
+
+[View Project](https://github.com/roshana01/Quiz-web)
+
+### DigiKala Template 🛍️
+An Iranian e-commerce template inspired by DigiKala, built with HTML and CSS. Features product listings and responsive design.
+
+[View Project](https://github.com/roshana01/digikala-template)
+
 ## Stats 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=roshana01&show_icons=true&theme=tokyonight)](https://github.com/roshana01)
 
