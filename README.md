@@ -37,7 +37,7 @@ A single-page movie search app built with React, Tailwind CSS, and custom hooks.
 ### Weather Dashboard 🌤️
 A weather dashboard built using React, React Query, and Tailwind CSS. Fetches real-time weather data and displays it in an interactive user interface.
 
-[View Project](https://github.com/roshana01/weather-dashboard)
+[View Project](https://github.com/roshana01/dashboard-weather-)
 
 ### Pharmacy Store 🏪
 A pharmacy store application built with React, Tailwind CSS, and custom hooks. Manages product listings and user interactions seamlessly.
