@@ -1,5 +1,4 @@
 
-
 ## Front-End Developer (React.js)
 #### Hello , I am Roshanak 👋,
  a front end programmer with the React library. A hardworking girl who loves coding 💻
@@ -19,7 +18,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-181717?style=for-the-badge&logo=zustand&logoColor=white)
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -29,14 +27,19 @@
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+
 ## 🚀 Projects
 ### Movies-Star 🎬
 A single-page movie search app built with React, Tailwind CSS, and custom hooks. Uses APIs to fetch movie data and local storage for saving user preferences.
 
 [View Project](https://github.com/roshana01/movies-star)
 
+### Weather Dashboard 🌤️
+A weather dashboard built using React, React Query, and Tailwind CSS. Fetches real-time weather data and displays it in an interactive user interface.
+
+[View Project](https://github.com/roshana01/weather-dashboard)
+
 ## Stats 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=roshana01&show_icons=true&theme=tokyonight)](https://github.com/roshana01)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshana01&langs_count=6&theme=tokyonight)](https://github.com/roshana01)
-
