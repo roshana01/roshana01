@@ -39,6 +39,11 @@ A weather dashboard built using React, React Query, and Tailwind CSS. Fetches re
 
 [View Project](https://github.com/roshana01/weather-dashboard)
 
+### Pharmacy Store 🏪
+A pharmacy store application built with React, Tailwind CSS, and custom hooks. Manages product listings and user interactions seamlessly.
+
+[View Project](https://github.com/roshana01/Pharmacy-store-project)
+
 ## Stats 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=roshana01&show_icons=true&theme=tokyonight)](https://github.com/roshana01)
 
